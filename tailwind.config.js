@@ -28,7 +28,10 @@ export default {
       container: {
         center: true,
         padding: "1.5rem",
-      }
+      },
+      boxShadow: {
+        item: "inset 0px 6px 0px 0px rgba(0,0,0,0.15)",
+      },
     },
   },
   plugins: [],

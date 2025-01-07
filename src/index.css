@@ -5,3 +5,7 @@
 * {
   @apply font-main font-semibold text-slate-700;
 }
+
+img {
+  @apply select-none;
+}
