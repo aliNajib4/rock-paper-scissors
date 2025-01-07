@@ -25,6 +25,10 @@ export default {
       fontFamily: {
         main: '"Barlow Semi Condensed", serif',
       },
+      container: {
+        center: true,
+        padding: "1.5rem",
+      }
     },
   },
   plugins: [],
